@@ -1,0 +1,38 @@
+
+
+.navbar{
+    background-color:rgb(18, 15, 69);
+    height: 100px;
+    margin-bottom: 20px;
+
+}
+.col-lg-6 h1{
+    color: rgb(17, 6, 55);
+    
+}
+
+.card-shadow-2-strong{
+    border-radius: 1rem;
+}
+.card-body{
+    padding: 5;
+    text-align: center;
+}
+.row{
+    display:flex;
+    justify-content:center ;
+    align-items:center; 
+    height: 100
+}
+
+.form-check{
+    display:flex;
+    justify-content:flex-start;
+}
+
+
+.form-check-label{
+    display: flex;
+    justify-content: flex-start;
+}
+
